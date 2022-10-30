@@ -198,7 +198,7 @@ def get_params():
     parser.add_argument("--data_dir", type=str,
                         default="./data/",help="data directory")
     parser.add_argument("--data", type=str,
-                        default="nyc_min",help="data name")
+                        default="nyc",help="data name")
     parser.add_argument("--gpu", type=int,
                         default="1",help="choose gpu")
     parser.add_argument('--batch_size', type=int, default=128, metavar='N',
