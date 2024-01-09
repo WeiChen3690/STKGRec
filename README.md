@@ -1,6 +1,6 @@
 # STKGRec
 
-This is the code of STKGRec.
+This is the pytorch implementation for our KBS paper：Building and exploiting spatial–temporal knowledge graph for next POI recommendation.
 
 # Requirements
 * python 3.8
